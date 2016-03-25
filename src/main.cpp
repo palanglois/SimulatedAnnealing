@@ -1,6 +1,6 @@
 #include <QApplication>
 #include <iostream>
-#include "testFuncOpt.h"
+//#include "testFuncOpt.h"
 #include "funcOpt.h"
 #include <vector>
 #include "Prony.h"

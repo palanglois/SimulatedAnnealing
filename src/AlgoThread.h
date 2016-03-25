@@ -4,7 +4,7 @@
 #include <QThread>
 #include "funcOpt.h"
 #include <vector>
-#include  "Prony.h"
+#include "Prony.h"
 #include "Graph.h"
 #include <QMutex>
 
